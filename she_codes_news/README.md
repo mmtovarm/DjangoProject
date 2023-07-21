@@ -6,10 +6,10 @@ When you need to specify terminal commands, you can surround them withbackticks,
 ![ {{ My ERD }} ]( {{ ./relative_path_to_your_entity_relationship_diagram }} )
 
 ## Project Features
-- [ ] Order stories by date![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
+- [ ] Order stories by date ![ Image ]( ./Readme_files/image.png )
 - [ ] Styled "new story" form![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] Story images![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
-- [ ] Log-in/log-out ![  Login Logout ](./Readme_files/Login.movs)
+- [ ] Log-in/log-out ![  Login Logout ](./Readme_files/login.mov)
 - [ ] "Account view" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] "Create Account" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] View stories by author![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
