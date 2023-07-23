@@ -9,7 +9,7 @@ When you need to specify terminal commands, you can surround them withbackticks,
 - [ ] Order stories by date ![ Image ]( ./Readme_files/image.png )
 - [ ] Styled "new story" form![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] Story images![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
-- [ ] Log-in/log-out ![  Login Logout ](./Readme_files/login.mov)
+- [X] Log-in/log-out ![  Login Logout ](./Readme_files/loginbutton.png)
 - [ ] "Account view" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] "Create Account" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] View stories by author![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
