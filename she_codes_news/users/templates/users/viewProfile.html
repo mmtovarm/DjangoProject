@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<br>
+<h2>View Your Profile </h2>
+<p>{{ user.username }}</p>
+<p>{{ user.email }}</p>
+<p>{{ user.date_joined }}</p>
+{% endblock %}

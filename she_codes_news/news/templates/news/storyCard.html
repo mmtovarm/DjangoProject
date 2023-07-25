@@ -16,6 +16,8 @@
  <!-- {% comment %} {% endif %} {% endcomment %} -->
         {% if story.image is not None %}
             <img src={{ story.image }}>
+        {% else %}
+            <img src="../static/news/images/placeholder-{{ position }}.jpg">
         {% endif %}
        
         <div class="story-card-text">
