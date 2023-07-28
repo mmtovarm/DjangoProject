@@ -12,7 +12,7 @@ When you need to specify terminal commands, you can surround them withbackticks,
 - [ ] Story images![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [X] Log-in/log-out ![  Login Logout ](./Readme_files/loginbutton.png)
 - [ ] "Account view" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
-- [ ] "Create Account" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
+- [x] "Create Account" page![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] View stories by author![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] "Log-in" button only visible when no user is logged in/"Log-out" buttononly visible when a user *is* logged in![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
 - [ ] "Create Story" functionality only available when user is logged in![ {{ Description of image }} ]( {{ ./relative_path_to_image_file }} )
